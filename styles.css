@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.sec1{
+	border-radius:10px;
+	
+}
+.body{
+	background-colo:#f5f5f5
+	width:100%;
+}
+.head{
+	background-color:#011e29;
+	color:white;
+	alignment:center;
+	padding:10px;
+}
