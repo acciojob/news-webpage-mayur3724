@@ -1,5 +1,6 @@
 /*  your css code here. If applicable */
 .pictorial-news-section{
+	text-align:centre;
 	justify-content:right;
 	border-radius:10px;
 	width:110px;
@@ -33,7 +34,8 @@
 	background-color:#011e29;
 	color:white;
 	text-align:center;
-	padding:10px;
+	padding:5px;
+	margin:5px;
 }
 .flex{
 	display:flex;
